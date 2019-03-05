@@ -1,3 +1,2 @@
 # serverside-chatroom
-A chatroom with a complete login page
-Written in php
+Entire code for a chatroom that can be mounted onto a server, and contains support for logging in, asynchronous chatting, and using a MySQL database.
